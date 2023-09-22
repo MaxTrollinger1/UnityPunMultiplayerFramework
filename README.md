@@ -42,7 +42,7 @@ To try them out, navigate to the `Examples` directory and open the desired scene
 
 ## Documentation
 
-Documentation not out yet. Just a little longer!
+We welcome the documentation! Please see the `DOCUMENTATION.md` for more details.
 
 ## Contributing
 
