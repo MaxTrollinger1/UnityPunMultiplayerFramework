@@ -59,6 +59,6 @@ Having issues or need help? Check out our [FAQs](./path-to-your-faqs.md) or crea
 ## Acknowledgements
 
 - [Photon PUN 2](https://www.photonengine.com/en-US/PUN) for the solid networking foundation.
-- [Max Premo] - For developing this amazing framework.
+- [Max Trollinger] - For developing this amazing framework.
 
 ---
