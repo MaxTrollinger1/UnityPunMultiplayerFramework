@@ -1,5 +1,5 @@
 Unity Pun Multiplayer Framework V0.1
-Max Premo
+Max Trollinger
 09/22/2023
 
 **Requirements**
