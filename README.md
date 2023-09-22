@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 
 ## Support
 
-Having issues or need help? Check out our [FAQs](./path-to-your-faqs.md) or create an issue [here](https://github.com/your-username/your-repo-name/issues).
+Having issues or need help? Check out our [FAQs](./path-to-your-faqs.md) or create an issue [here](https://github.com/MaxTrollinger1/UnityPunMultiplayerFramework/issues).
 
 ## Acknowledgements
 
