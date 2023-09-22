@@ -1,7 +1,5 @@
 # Unity Easy Multiplayer Framework
 
-![Framework Logo](./path-to-your-logo.png)
-
 This framework is a robust Unity package designed to significantly simplify the process of implementing multiplayer functionalities in your Unity games. Leveraging the power of Photon PUN 2, our package streamlines the connection process, lobby system, and player architecture to get you started with multiplayer faster than ever before.
 
 ## Features
